@@ -3,18 +3,19 @@
 <h2> Cybersecurity Projects:</h2>
 
 - <b>Malware Analysis</b>
-  - [Utilizing Splunk and Sysmon to monitor malicious traffic ](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Utilizing Splunk and Sysmon to monitor malicious traffic ](https://github.com/ronnydiggs/Malware-Analysis)
+- <b>Phishing Analysis</b>
+  - [Phishing](https://github.com/ronnydiggs/Phishing-Analysis)
 - <b>Vulnerability Management</b>
-  - [Scanning a Vulnerable Environment and Remediating](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+  - [Scanning a Vulnerable Environment and Remediating](https://github.com/ronnydiggs/Vulnerability-Management)
+- <b>Cloud Security</b>
+  - [Setting up a Secure Network in AWS](https://github.com/ronnydiggs/Cloud-Security)
+- <b>Traffic Analysis</b>
+  - [Malware Traffic Analysis with Wireshark](https://github.com/ronnydiggs/pcap)
+- <b>Scripting</b>
+  - [Scripting in Python](https://github.com/ronnydiggs/python)
+  - [Scripting in Powershell](https://github.com/ronnydiggs/python)
+    
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="RonnyDiggs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
