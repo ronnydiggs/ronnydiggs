@@ -1,38 +1,17 @@
-<h1>Hi, I'm Ronny! <br/><a href="https://github.com/ronnydiggs"> <a href="https://www.linkedin.com/in/ronny-d-2b8b3940/">Cybersecurity Professional</a>
+<h1>Hi, I'm Ronny, an <a href="https://www.linkedin.com/in/ronny-diggs-2b8b3940/">IT Professional</a></h1>
 
-<h2> Cybersecurity Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Malware Analysis</b>
-  - [Utilizing Splunk and Sysmon to monitor malicious traffic ](https://github.com/ronnydiggs/Malware-Analysis)
-- <b>Phishing Analysis</b>
-  - [Phishing](https://github.com/ronnydiggs/Phishing-Analysis)
-- <b>Vulnerability Management</b>
-  - [Scanning a Vulnerable Environment and Remediating](https://github.com/ronnydiggs/Vulnerability-Management)
-- <b>Cloud Security</b>
-  - [Setting up a Secure Network in AWS](https://github.com/ronnydiggs/Cloud-Security)
-- <b>Traffic Analysis</b>
-  - [Malware Traffic Analysis with Wireshark](https://github.com/ronnydiggs/pcap)
-- <b>Scripting</b>
-  - [Scripting in Python](https://github.com/ronnydiggs/python)
-  - [Scripting in Powershell](https://github.com/ronnydiggs/python)
-    
-<h2> 🤳 Connect with me:</h2>
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/ronnydiggs/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/ronnydiggs/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/ronnydiggs/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ronnydiggs/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ronnydiggs/azure-network-protocols)
 
-[<img align="left" alt="RonnyDiggs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<h2>Connect with me:</h2>
 
-[linkedin]: https://linkedin.com/in/ronny-d-2b8b3940/
+[<img align="left" alt="Ronny | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<!--
-**ronnydiggs/ronnydiggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://linkedin.com/in/ronny-diggs-2b8b3940/
