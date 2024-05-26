@@ -14,7 +14,7 @@
   - [Network File Shares and Permissions](https://github.com/ronnydiggs/fileshare-permissions)
   - [Network Activity Monitoring with Wireshark](https://github.com/ronnydiggs/azure-network-protocols)
   - [Virtual Private Network](https://github.com/ronnydiggs/vpn)
-  - 
+    
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Ronny | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
