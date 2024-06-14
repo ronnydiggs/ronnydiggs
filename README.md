@@ -16,7 +16,7 @@
   - [Virtual Private Network](https://github.com/ronnydiggs/vpn)
     
 - <b>Microsoft Endpoint Configuration Manager / System Center Configuration Manager</b> 
-  - [Microsoft Endpoint Configuration Manager (SCCM)](https://github.com/ronnydiggs/SCCM)
+  - [Microsoft Endpoint Configuration Manager (MECM/SCCM)](https://github.com/ronnydiggs/SCCM)
     
 <h2>Connect with me:</h2>
 
