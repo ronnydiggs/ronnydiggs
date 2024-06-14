@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ronny, an <a href="https://www.linkedin.com/in/ronny-diggs-2b8b3940/">IT Professional</a></h1>
+<h1>Hi, I'm Ronny, an <a href="https://www.linkedin.com/in/ronnydiggs/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
