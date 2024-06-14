@@ -14,7 +14,9 @@
   - [Network File Shares and Permissions](https://github.com/ronnydiggs/fileshare-permissions)
   - [Network Activity Monitoring with Wireshark](https://github.com/ronnydiggs/azure-network-protocols)
   - [Virtual Private Network](https://github.com/ronnydiggs/vpn)
- <!-- - [Microsoft Endpoint Configuration Manager (SCCM)](https://github.com/ronnydiggs/SCCM) -->
+    
+- <b>Microsoft Endpoint Configuration Manager / System Center Configuration Manager</b> 
+  - [Microsoft Endpoint Configuration Manager (SCCM)](https://github.com/ronnydiggs/SCCM)
     
 <h2>Connect with me:</h2>
 
